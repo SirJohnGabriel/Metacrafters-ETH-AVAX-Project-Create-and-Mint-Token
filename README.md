@@ -123,7 +123,7 @@ The token is named **"JohnGabrielPagtalunan"** with the symbol **"JGP"** and fol
 
 ## **License**
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**[LICENSE].
 
 ---
 
