@@ -134,7 +134,3 @@ For any inquiries or issues regarding this contract, please contact:
 - **Email**: [j.g.pagtalunan14@gmail.com](mailto:j.g.pagtalunan14@gmail.com)
 - **Email**: [202120016@fit.edu.ph](mailto:202120016@fit.edu.ph)
 - **Email**: [johngabrielpagtalunan@hotmail.com](mailto:johngabrielpagtalunan@hotmail.com)
-
---- 
-
-Feel free to adjust or add further details for your specific use case!
